@@ -20,7 +20,7 @@ package column
 import (
 	"reflect"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/binary"
+	"github.com/beebeeep/clickhouse-go/v2/lib/binary"
 )
 
 type Nullable struct {

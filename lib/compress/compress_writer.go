@@ -20,7 +20,7 @@ package compress
 import (
 	"io"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/cityhash102"
+	"github.com/beebeeep/clickhouse-go/v2/lib/cityhash102"
 	"github.com/pierrec/lz4/v4"
 )
 

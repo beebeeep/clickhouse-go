@@ -22,7 +22,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/ClickHouse/clickhouse-go/v2"
+	"github.com/beebeeep/clickhouse-go/v2"
 	"github.com/stretchr/testify/assert"
 )
 

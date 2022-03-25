@@ -27,7 +27,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/compress"
+	"github.com/beebeeep/clickhouse-go/v2/lib/compress"
 )
 
 var CompressionLZ4 compress.Method = compress.LZ4

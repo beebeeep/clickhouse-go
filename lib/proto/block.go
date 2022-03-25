@@ -21,8 +21,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/binary"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/column"
+	"github.com/beebeeep/clickhouse-go/v2/lib/binary"
+	"github.com/beebeeep/clickhouse-go/v2/lib/column"
 )
 
 type Block struct {

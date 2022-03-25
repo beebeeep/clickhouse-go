@@ -28,7 +28,7 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/column"
+	"github.com/beebeeep/clickhouse-go/v2/lib/column"
 )
 
 var globalConnID int64

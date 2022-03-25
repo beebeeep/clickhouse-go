@@ -20,7 +20,7 @@ package proto
 import (
 	"fmt"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/binary"
+	"github.com/beebeeep/clickhouse-go/v2/lib/binary"
 )
 
 type ProfileInfo struct {

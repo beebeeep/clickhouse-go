@@ -23,7 +23,7 @@ import (
 	"log"
 	"time"
 
-	_ "github.com/ClickHouse/clickhouse-go/v2"
+	_ "github.com/beebeeep/clickhouse-go/v2"
 )
 
 func example() error {

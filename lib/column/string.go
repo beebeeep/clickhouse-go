@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/binary"
+	"github.com/beebeeep/clickhouse-go/v2/lib/binary"
 )
 
 type String []string

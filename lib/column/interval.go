@@ -23,7 +23,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/binary"
+	"github.com/beebeeep/clickhouse-go/v2/lib/binary"
 )
 
 type Interval struct {
